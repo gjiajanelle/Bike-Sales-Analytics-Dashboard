@@ -64,4 +64,5 @@ Bike-Sales-Analytics-Dashboard/
 │
 ├── Bike Sales Analytics Dashboard.xlsx   # Main interactive workbook (Dashboard, Pivot Tables, Working Sheet)
 ├── bike_dataset.xlsx                     # Raw source dataset containing original customer survey records
+├── bike_sales_dashboard_preview.png      # A screenshot of the dashboard in Excel
 └── README.md                             # Comprehensive project documentation
