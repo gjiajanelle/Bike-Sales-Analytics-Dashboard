@@ -50,7 +50,7 @@ Understanding consumer purchasing behavior is essential for targeted marketing a
 * **Data Cleaning & Preprocessing:** 
   * Handled missing values, formatted currency fields, and categorized continuous age metrics into discrete age brackets (`Adolescent`, `Middle Aged`, `Old`).
   * Added binary indicator helper columns (`Purchased_Numeric = IF(Purchased="Yes", 1, 0)`) for exact conversion probability calculations.
-* **Pivot Tables & Calculations:** Built dynamic aggregation models summarizing metrics by demographic groups and applied `GETPIVOTDATA` referencing.
+* **Pivot Tables & Calculations:** Built dynamic aggregation models summarizing metrics by demographic groups.
 * **Interactive Dynamic UI:** 
   * Implemented connected **Slicers** across *Marital Status*, *Region*, and *Education* to dynamically filter all visualizations simultaneously.
   * Created custom KPI shape cards linked directly to Pivot Table cells for real-time statistical updates.
